@@ -29,8 +29,8 @@ class Mouse:
         self._tipo= valor 
     
     def imprimir (self):
-        print (f'Mouse: {self.marca}, tipo: {self.tipo}, color: {sel.color}')
-        
+        print (f'Mouse: {self.marca}, tipo: {self.tipo}, color: {self.color}')
+
 
 
 
